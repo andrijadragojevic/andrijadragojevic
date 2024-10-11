@@ -15,5 +15,6 @@ When I’m not coding, I’m probably daydreaming about a world where websites c
 If you're working on a fun project or want to collaborate on something creative, hit me up—I'm always up for exciting new challenges!
 
 ## 🛠 Check out my daily.dev devcard:
-[![daily.dev devcard]([https://api.daily.dev/devcards/your-unique-id.svg](https://api.daily.dev/devcards/v2/JML9eBLUpTQryeMQ5TIx2.png?type=wide&r=rrt]))]([https://app.daily.dev/your-username](https://app.daily.dev/andrija_dev))
+[![daily.dev devcard](https://api.daily.dev/devcards/v2/JML9eBLUpTQryeMQ5TIx2.png?type=wide&r=rrt)](https://app.daily.dev/andrija_dev)
+
 
