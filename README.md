@@ -1,16 +1,12 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrijadragojevic&layout=compact&theme=radical&hide_border=true&card_width=1000)
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrijadragojevic&theme=radical&hide_border=true&card_width=1000)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrijadragojevic&layout=compact&theme=radical&hide_border=true&card_width=1000)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrijadragojevic&show_icons=true&theme=radical&hide_border=true&card_width=1000)
 
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=andrijadragojevic&theme=radical&hide_border=true&card_width=1000)
 
-
-
+<br><br>
 
 # Hello, I'm Andrija! 👋
 
@@ -25,7 +21,6 @@ I'm always looking to collaborate with anyone who's up for building some cool st
 ## Let's Build Something Cool Together! 🤝
 If you're working on a fun project or want to collaborate on something creative, hit me up—I'm always up for exciting new challenges!
 
-## 🛠 Check out my daily.dev devcard:
 [![daily.dev devcard](https://api.daily.dev/devcards/v2/JML9eBLUpTQryeMQ5TIx2.png?type=wide&r=rrt)](https://app.daily.dev/andrija_dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andrijadragojevic&hide_border=true)
