@@ -21,6 +21,6 @@ I'm always looking to collaborate with anyone who's up for building some cool st
 ## Let's Build Something Cool Together! 🤝
 If you're working on a fun project or want to collaborate on something creative, hit me up—I'm always up for exciting new challenges!
 
-[![daily.dev devcard](https://api.daily.dev/devcards/v2/JML9eBLUpTQryeMQ5TIx2.png?type=wide&r=rrt)](https://app.daily.dev/andrija_dev)
+[![daily.dev devcard](https://api.daily.dev/devcards/v2/JML9eBLUpTQryeMQ5TIx2.png?type=wide&r=4w2)](https://app.daily.dev/andrija_dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andrijadragojevic&hide_border=true)
