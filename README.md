@@ -1,8 +1,10 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrijadragojevic&show_icons=true&theme=radical&hide_border=true&card_width=800)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrijadragojevic&layout=compact&theme=radical&hide_border=true&card_width=800)
 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrijadragojevic&theme=radical&hide_border=true&card_width=800)
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrijadragojevic&show_icons=true&theme=radical&hide_border=true&card_width=800)
 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=andrijadragojevic&theme=radical&hide_border=true&card_width=800)
