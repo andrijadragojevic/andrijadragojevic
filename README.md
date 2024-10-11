@@ -8,9 +8,6 @@ I'm always looking to collaborate with anyone who's up for building some cool st
 - **Frontend:** React, Next.js, HTML, CSS, JavaScript
 - **Backend/Scripting:** Python (for scripting and automation), wanting to learn Node JS as well
   
-## 💡 Fun Fact:
-When I’m not coding, I’m probably daydreaming about a world where websites can write themselves... but until that happens, I’m having fun making the web a better place!
-
 ## Let's Build Something Cool Together! 🤝
 If you're working on a fun project or want to collaborate on something creative, hit me up—I'm always up for exciting new challenges!
 
