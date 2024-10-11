@@ -13,3 +13,5 @@ If you're working on a fun project or want to collaborate on something creative,
 
 ## 🛠 Check out my daily.dev devcard:
 [![daily.dev devcard](https://api.daily.dev/devcards/v2/JML9eBLUpTQryeMQ5TIx2.png?type=wide&r=rrt)](https://app.daily.dev/andrija_dev)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
